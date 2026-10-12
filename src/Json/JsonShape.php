@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Stewart\Support\Json;
 
-use Stewart\Support\Exception\JsonShapeException;
+use Stewart\Contracts\Exception\JsonShapeException;
 
 /** @internal */
 final class JsonShape
